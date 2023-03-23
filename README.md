@@ -5,17 +5,14 @@
 ## MatrizOne commits-map
 ### Padrões de commits utilizados pela :m:atriz:o:ne
 
-<br>
-
-| Tipo do Commit | Titulo | Descrição |
+| Tipo do Commit | Título | Descrição |
 | --- | --- | --- |
-| `feat` | Recurso | adição de novas funcionalidades ao sistema |
-| `docs` | Documentação | atualização de documentação |
-| `fix` | Correção de bug | correção de bugs |
-| `style` | Estilização | alterações que não afetam o significado do código (espaço em branco, formatação, falta de ponto-e-vírgula)|
-| `refactor` | Refatoração de Codigo | alteração de código que não corrige um bug nem adiciona um recurso |
-| `perf` | Melhorias de desempenho | alteração de código que melhora o desempenho |
-| `refactor` | Refatoração de Codigo | alteração de código que não corrige um bug nem adiciona um recurso |
-| `build` | Builds | alterações que afetam o sistema de compilação ou dependências externas (exemplos de escopos: gulp, broccoli, npm) |
-  | `chore` | Atualização sem impacto | alterações que não se relacionam a uma correção ou recurso |
-| `revert` | Reverter | reverter um commit anterior |
+| `feat` | Recurso | Adição de novas funcionalidades ao sistema |
+| `docs` | Documentação | Atualização de documentação |
+| `fix` | Correção de bug | Correção de bugs |
+| `style` | Estilização | Alterações que não afetam o significado do código (espaço em branco, formatação, falta de ponto-e-vírgula)|
+| `refactor` | Refatoração de Codigo | Alteração de código que não corrige um bug nem adiciona um recurso |
+| `perf` | Melhorias de desempenho | Alteração de código que melhora o desempenho |
+| `build` | Builds | Alterações que afetam o sistema de compilação ou dependências externas (exemplos de escopos: gulp, broccoli, npm) |
+| `chore` | Atualização sem impacto | Alterações que não se relacionam a uma correção ou recurso |
+| `revert` | Reverter | Reverter um commit anterior |
