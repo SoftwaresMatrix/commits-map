@@ -16,5 +16,3 @@
 | `build` | Builds | Alterações que afetam o sistema de compilação ou dependências externas (exemplos de escopos: gulp, broccoli, npm) |
 | `chore` | Atualização sem impacto | Alterações que não se relacionam a uma correção ou recurso |
 | `revert` | Reverter | Reverter um commit anterior |
-
-![](https://img.shields.io/github/license/SoftwaresMatrix/commits-map?style=flat-square)
